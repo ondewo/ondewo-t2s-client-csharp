@@ -2,7 +2,7 @@
 
 *****************
 
-## Release ONDEWO T2S Csharp Client 1.0.0
+## Release ONDEWO T2S Csharp Client 6.6.0
 
 ### New Features
 
