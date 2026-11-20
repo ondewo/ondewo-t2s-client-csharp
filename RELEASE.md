@@ -2,6 +2,15 @@
 
 *****************
 
+## Release ONDEWO T2S Csharp Client 6.7.0
+
+### Improvements
+
+* Tracking API Version [6.7.0](https://github.com/ondewo/ondewo-t2s-api/releases/tag/6.7.0) ( [Documentation](https://ondewo.github.io/ondewo-t2s-api/) )
+* [[OND236-120]](https://ondewo.atlassian.net/browse/OND236-120) Generated with ondewo-proto-compiler 5.17.0 (protoc 35.1). New runtime floors: Google.Protobuf 3.35.1, Grpc.Core.Api / Grpc.Net.Client 2.85.0, Google.Api.CommonProtos 2.17.0.
+
+*****************
+
 ## Release ONDEWO T2S Csharp Client 6.6.1
 
 ### New Features
